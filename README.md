@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChuwiChuwi
-- 👀 I’m interested in arduino and raspberry pi associated projects
-- 🌱 I’m currently learning python coding
+- 👀 I’m interested in Web Development Projects
+- 🌱 I’m currently learning Javascript coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
